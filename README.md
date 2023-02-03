@@ -9,7 +9,7 @@ ___
 <table>
 <tr>
 <td>
-<a href="https://www.facebook.com/prevail.ugah" ><img src="img/facebook.png" width="50px" height="50;"><p>Pre va il</p></a>
+<a href="https://www.facebook.com/prevail.ugah" ><img src="https://postimg.cc/gallery/Hyn26Kx" width="50px" height="50;"><p>Pre va il</p></a>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src="img/linkdn.png" width="50px" height="50;" style="padding-left:28px"><p style="padding-left:13px">Prevail B Ugah</p></a>
