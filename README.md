@@ -6,14 +6,20 @@ ___
 # More About Prevail
 ## I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
 # My social media handles
+<table>
+<tr>
+<td>
+<a href="https://www.facebook.com/prevail.ugah"><img src=""><p>Pre va Il</p></a>
+</td>
+<td>
+<a href="https://twitter.com/prevail_ugah"><img src=""><p>Prevail B Ugah</p></a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src=""><p>PrevaIl Ugah</p></a>
+</td>
+</tr>
 
-[facebook](https://www.facebook.com/prevail.ugah)
-
-[Twitter](https://twitter.com/prevail_ugah)
-
-[Linkedln](https://www.linkedin.com/in/prevail-b-ugah-3aa845263)
-
-![My image](https://github.com/PrevailUgah/PrevailUgah/img/mypic.jpg)
+</table>
 
 
 
