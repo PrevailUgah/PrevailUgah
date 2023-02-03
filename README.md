@@ -1,4 +1,4 @@
-![Prevails Readme Image](img/my-image2.PNG)
+![Prevails Readme Image](/prevailugah/Img/my-image2.PNGimg/my-image2.PNG)
 ___
 <button style="background-color:green;color:white;border-radius:8px;">Profile views: <span style="background-color:;color:black;"><b>829</b></span></button> 
 ___
