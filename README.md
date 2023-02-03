@@ -1,6 +1,6 @@
 # **WELCOME TO MY PROFILE**
 
-<button style="background-color:green;color:white;border-radius:8px;">Profile views:<b>829</b>
+<button style="background-color:green;color:white;border-radius:8px;">Profile views:<b>829</b></button>
 ___
 
 # More About Prevail
@@ -15,11 +15,12 @@ ___
 <a href="https://twitter.com/prevail_ugah"><img src="https://user-images.githubusercontent.com/117872283/216627371-9e5eded6-89c7-4a12-af7c-8fe3170fc4f1.png" width="50px" height="50px"><p>Prevail B Ugah</p></a>
 </td>
 <td>
-<a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src="https://user-images.githubusercontent.com/117872283/216627186-f04f0b98-68e8-4688-a70a-e64fc9fc80d0.png" width="50px" height="50px"><p>PrevaIl Ugah</p></a>
+<a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src="https://user-images.githubusercontent.com/117872283/216627186-f04f0b98-68e8-4688-a70a-e64fc9fc80d0.png" width="50px" height="50px" style="padding-left:10px;"><p>PrevaIl Ugah</p></a>
 </td>
 </tr>
 
 </table>
+
 
 
 
