@@ -1,7 +1,7 @@
 # **WELCOME TO MY PROFILE**
 
 <span>
-<img src="https://user-images.githubusercontent.com/117872283/216630951-f8a1a61d-6dc0-4e34-8f91-542d753a9c56.PNG" width="495px" height="250px">
+<img src="https://user-images.githubusercontent.com/117872283/216630951-f8a1a61d-6dc0-4e34-8f91-542d753a9c56.PNG" width="520px" height="250px">
 </span>
 
 <button style="background-color:green;color:white;border-radius:8px;">Profile views:<b>829</b></button>
