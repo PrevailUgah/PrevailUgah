@@ -13,7 +13,7 @@ ___
 
 [Linkedln](https://www.linkedin.com/in/prevail-b-ugah-3aa845263)
 
-![My image](https:img/mypic.jpg)
+![My image](https://github.com/PrevailUgah/PrevailUgah/img/mypic.jpg)
 
 
 
