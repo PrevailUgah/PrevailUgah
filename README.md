@@ -1,8 +1,9 @@
 # **WELCOME TO MY PROFILE**
 
 <span style="border-radius:15px">
-<img src="https://user-images.githubusercontent.com/117872283/216630951-f8a1a61d-6dc0-4e34-8f91-542d753a9c56.PNG" width="600px" height="250px">
+<img src="https://user-images.githubusercontent.com/117872283/216711425-d91ca6da-0b4d-4284-a265-ddcf0e385422.gif" width="600px" height="250px">
 </span>
+![giphy](https://)
 
 ___
 # More About Prevail
