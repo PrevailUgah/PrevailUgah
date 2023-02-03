@@ -1,4 +1,4 @@
-<button style="border-radius:8px;border:5px solid green;">![Prevails Readme Image](img/my-image2.PNG)</button>
+![Prevails Readme Image](img/my-image2.PNG)
 ___
 <button style="background-color:green;color:white;border-radius:8px;">Profile views: <span style="background-color:;color:black;"><b>829</b></span></button> 
 ___
