@@ -9,13 +9,13 @@ ___
 <table>
 <tr>
 <td>
-<a href="https://www.facebook.com/prevail.ugah"><img src=""><p>Pre va Il</p></a>
+<a href="https://www.facebook.com/prevail.ugah"><img src="" width="50px" height="50px"><p>Pre va Il</p></a>
 </td>
 <td>
-<a href="https://twitter.com/prevail_ugah"><img src=""><p>Prevail B Ugah</p></a>
+<a href="https://twitter.com/prevail_ugah"><img src="" width="50px" height="50px"><p>Prevail B Ugah</p></a>
 </td>
 <td>
-<a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src=""><p>PrevaIl Ugah</p></a>
+<a href="https://www.linkedin.com/in/prevail-b-ugah-3aa845263"><img src="" width="50px" height="50px"><p>PrevaIl Ugah</p></a>
 </td>
 </tr>
 
