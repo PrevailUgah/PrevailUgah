@@ -3,7 +3,7 @@
 <span style="border-radius:15px" text-align="center">
 <img src="https://user-images.githubusercontent.com/117872283/216715207-1695b7f3-eb11-4c1c-b037-69577d4d6c29.gif" width="900px" height="300px">
 </span>
-<img src="https://user-images.githubusercontent.com/117872283/216720066-8444e648-5c60-4d88-aa8b-822d6fd3a86d.PNG" width="48px" height="17px">
+<img src="https://user-images.githubusercontent.com/117872283/216720066-8444e648-5c60-4d88-aa8b-822d6fd3a86d.PNG" width="70px" height="30px">
 ___
 # More About Prevail
 ## I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
