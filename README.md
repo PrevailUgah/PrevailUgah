@@ -10,7 +10,7 @@ ___
 ___
 # More About Prevail
 ## I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
-# My social media handles
+# My Social Accounts 
 <table>
 <tr>
 <td>
