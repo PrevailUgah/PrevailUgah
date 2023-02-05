@@ -7,10 +7,15 @@
 ___
 <p align="center"><img src="https://user-images.githubusercontent.com/117872283/216784680-ae2e7198-576b-4f7a-91e4-82d5def82778.PNG" width="100px" height="40px" ></p>
  
-
+# About Me
+ * Hi, i'm  **Prevail**
+* I'm currently building my skills on **Python**, **C++**, **HTML/CSS**, **JavaScript**, and **React**. 
+*  I'm passionate about making daily living easier for people
+* Really looking forward to collaborating with Great minds like you, on **Great and Innovative Projects**
+* You can reach me via email at prevailbugah@gmail.com
 ___
 # More About Prevail
-## I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
+### I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
 # My Social Accounts 
 <table>
 <tr>
