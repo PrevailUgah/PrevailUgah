@@ -15,7 +15,8 @@ ___
 * You can reach me via email at prevailbugah@gmail.com
 ___
 # More About Prevail
-### I am a Full-stack developer, still under going the process of growth with **ALX** and **HOLBERTON SCHOOL**. I love learning and also teaching.Currently a freelancer, looking forward to working with a top tech company.
+### I am a student of **ALX** and **HOLBERTON SCHOOL**, studying _Software Engineering_ . I love learning and Doing Hard Things.
+### One more thing,  I love making friends, so please feel free to contact me via my social accounts below lets get to know each other.
 # My Social Accounts 
 <table>
 <tr>
