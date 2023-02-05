@@ -1,11 +1,11 @@
-# **WELCOME TO MY PROFILE**
+# <p align="center">WELCOME TO MY PROFILE <img  src="https://user-images.githubusercontent.com/117872283/216832068-8ac6e159-dfdc-42ba-8152-0d0a16eae555.JPG" alt="prevail's logo" width="50px" height="50px" style="padding-left:49px" ></p>
 
 <span style="border-radius:15px" text-align="center">
 <img src="https://user-images.githubusercontent.com/117872283/216715207-1695b7f3-eb11-4c1c-b037-69577d4d6c29.gif" width="900px" height="300px">
 </span>
 
 ___
-<p align="center"><img src="https://user-images.githubusercontent.com/117872283/216784680-ae2e7198-576b-4f7a-91e4-82d5def82778.PNG" width="100px" height="40px" > <img  src="https://user-images.githubusercontent.com/117872283/216832068-8ac6e159-dfdc-42ba-8152-0d0a16eae555.JPG" alt="prevail's logo" width="50px" height="50px" style="padding-left:49px" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/117872283/216784680-ae2e7198-576b-4f7a-91e4-82d5def82778.PNG" width="100px" height="40px" > </p>
  
 ___
 # About Me
