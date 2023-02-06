@@ -58,7 +58,7 @@ ___
 </p>
  
 <p>🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸</p>
- <p>Hey! wanna hear a joke😄</p>
+ <p>Hey! wanna hear a joke before you go😄</p>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 
