@@ -1,7 +1,6 @@
-# <p align="center">WELCOME TO MY PROFILE <img  src="https://user-images.githubusercontent.com/117872283/216832068-8ac6e159-dfdc-42ba-8152-0d0a16eae555.JPG" alt="prevail's logo" width="50px" height="50px" style="padding-left:49px" ></p>
 
 <span style="border-radius:15px" text-align="center">
-<img src="https://user-images.githubusercontent.com/117872283/216715207-1695b7f3-eb11-4c1c-b037-69577d4d6c29.gif" width="900px" height="300px">
+<img src="https://user-images.githubusercontent.com/117872283/216997404-73759ab1-4e56-4245-825c-eeb6082653cf.gif" width="900px" height="300px">
 </span>
 
 ___
