@@ -17,6 +17,7 @@ ___
 # More About Prevail
 ### I am a student of **ALX** and **HOLBERTON SCHOOL**, studying _Software Engineering_ . I love learning and Doing Hard Things.
 ### One more thing,  I love making friends, so please feel free to contact me via my social accounts below lets get to know each other.
+
 # My Social Accounts 
 <table>
 <tr>
