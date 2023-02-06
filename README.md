@@ -6,7 +6,6 @@
 
 ___
 <p align="center"><img src="https://user-images.githubusercontent.com/117872283/216784680-ae2e7198-576b-4f7a-91e4-82d5def82778.PNG" width="100px" height="40px" > </p>
- 
 ___
 # About Me
  * Hi, i'm  **Prevail**
@@ -31,7 +30,7 @@ ___
 <a href="https://www.linkedin.com/in/prevail-b-ugah"><img src="https://user-images.githubusercontent.com/117872283/216627186-f04f0b98-68e8-4688-a70a-e64fc9fc80d0.png" width="50px" height="50px" style="padding-left:14px;"><p>PrevaIl Ugah</p></a>
 </td>
 <td>
-<a href="https://www.instagram.com/prevail.ugah"><img src="" width="50px" height="50px" style="padding-left:14px;"><p>PrevaIl.Ugah</p>
+<a href="https://www.instagram.com/prevail.ugah"><img src="https://user-images.githubusercontent.com/117872283/216936590-2003a028-f4a4-4dcb-a6c5-276e141fa80c.png" width="50px" height="50px" style="padding-left:14px;"><p>PrevaIl.Ugah</p>
 </td>
 </tr>
 
