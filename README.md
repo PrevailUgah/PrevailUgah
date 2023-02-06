@@ -6,6 +6,7 @@
 
 ___
 <p align="center"><img src="https://user-images.githubusercontent.com/117872283/216784680-ae2e7198-576b-4f7a-91e4-82d5def82778.PNG" width="100px" height="40px" > </p>
+
 ___
 # About Me
  * Hi, i'm  **Prevail**
@@ -13,6 +14,7 @@ ___
 *  I'm passionate about making daily living easier for people
 * Really looking forward to collaborating with Great minds like you, on **Great and Innovative Projects**
 * You can reach me via email at prevailbugah@gmail.com
+
 ___
 # More About Prevail
 ### I am a student of **ALX** and **HOLBERTON SCHOOL**, studying _Software Engineering_ . I love learning and Doing Hard Things.
