@@ -57,8 +57,8 @@ ___
  <a href="https://www.instagram.com/prevail.ugah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="femi_makay" height="30" width="40" /></a>
 </p>
  
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸 <br>
- Hey! wanna hear a joke😄
+<p>🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸</p>
+ <p>Hey! wanna hear a joke😄</p>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 
