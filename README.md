@@ -18,7 +18,6 @@ I'm a promoter of no pain no gain. Doing Hard Things(DHT). I love spending time 
 
 * Python
 * JavaScript
-* JQuery
 * React js
 * C Programming
  
