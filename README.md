@@ -40,7 +40,9 @@ I love people that can see my mistakes and correct me.
 
 Looking forward to working in a company, where i can put my skills to practise.
 
-lastly, i love meeting new people and making friends, so please reach out to me via my <b>Gmail</b>: prevailbugah@gmail.com ; <b>Outlook</b> : prevailugah@outlook.com ;  
+lastly, i love meeting new people and making friends, so please reach out to me via my ..
+ <b>Gmail</b>: prevailbugah@gmail.com ; 
+ <b>Outlook</b> : prevailugah@outlook.com ;  
 or via my social accounts. Lets get to know each other.
 
 That is all about me for now😴
