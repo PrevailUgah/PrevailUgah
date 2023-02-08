@@ -43,7 +43,7 @@ ___
 🏷️ I'm also an instrumentalist 🎹🎸 🎧
 🏷️ **Fact**:  For some reason i don't like "**C**" that much😓    
 🏷️ I'm a **NIGERIAN** 🇳🇬  
-🏷️ I love reading📕📕   
+🏷️ I love reading📕📕 check out this book by swyx [The Coding Career Handbook](https://learninpublic.org/?from=GH%20README)
 🏷️ I love people that can see my mistakes and correct me .
 🏷️Looking forward to working in a company, where i can put my skills to practise 💻🎀
 🏷️lastly, i love meeting new people and making friends 💬 so please reach out to me via my ..  
