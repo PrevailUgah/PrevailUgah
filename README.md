@@ -69,7 +69,7 @@ ___
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 <p >
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁;+ Please+if+you+have+any+tips+for+me+ on+how+to+improve+my+coding+skills;+..don't+hesitate+to+reach+out+to+me😉;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=840&height=50&duration=4500&pause=1000&color=ff652f">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁;+Don't+forget+to+star+my+repo's+and+follow+me+;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=840&height=50&duration=4100&pause=1000&color=ff652f">
 </p>
 
  
