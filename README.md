@@ -30,22 +30,26 @@ ___
  ..then down you go⚓
 </summary>
 <p>
-  📺Profile Views📺
+
+ ### 👇You just added to the number👇
   
  ![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
+ 
+ ___
  
 ### 📍I am a student of **ALX** and **HOLBERTON SCHOOL**, studying **Software Engineering**.
 🏷️ I enjoy being around smart and playful people😂
 🏷️ I eat alot..🍝🍩🍰 and also drink coffee alot☕ that is justified,i'm a programmer😅  
+🏷️ I'm also an instrumentalist 🎹🎸 🎧
 🏷️ **Fact**:  For some reason i don't like "**C**" that much😓    
 🏷️ I'm a **NIGERIAN** 🇳🇬  
-🏷️ I love learning   
-🏷️ I love people that can see my mistakes and correct me.
-🎁Looking forward to working in a company, where i can put my skills to practise.
+🏷️ I love reading📕📕   
+🏷️ I love people that can see my mistakes and correct me .
+🏷️Looking forward to working in a company, where i can put my skills to practise 💻🎀
 🏷️lastly, i love meeting new people and making friends 💬 so please reach out to me via my ..  
  ✉️ <b>Gmail</b>: prevailbugah@gmail.com   
- 📩 <b>Outlook 📩</b> : prevailugah@outlook.com     
-  📲or via my social accounts below. Lets get to know each other.
+ ✉️ <b>Outlook </b> : prevailugah@outlook.com     
+  📱 or via my social accounts below. Lets get to know each other 📱
 
 That is all about me for now😴💤
 </p>
