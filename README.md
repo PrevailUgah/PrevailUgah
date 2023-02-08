@@ -66,7 +66,7 @@ ___
  <p>Hey! wanna hear a joke before you go😄</p>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-
+![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
  
 
 
