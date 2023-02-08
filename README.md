@@ -31,6 +31,7 @@ ___
 </summary>
 <p>
   📺Profile Views📺
+  
  ![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
  
 ### 📍I am a student of **ALX** and **HOLBERTON SCHOOL**, studying **Software Engineering**.
