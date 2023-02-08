@@ -37,19 +37,19 @@ ___
  
  ___
  
-### 📍I am a student of **ALX** and **HOLBERTON SCHOOL**, studying **Software Engineering**.
-🏷️ I enjoy being around smart and playful people😂
-🏷️ I eat alot..🍝🍩🍰 and also drink coffee alot☕ that is justified,i'm a programmer😅     
-🏷️ I'm also an instrumentalist 🎹🎸 🎧   
-🏷️ **Fact**:  For some reason i don't like "**C**" that much😓    
-🏷️ I'm a **NIGERIAN** 🇳🇬     
-🏷️ I love reading📕📕 check out this book by swyx [The Coding Career Handbook](https://learninpublic.org/?from=GH%20README)  
-🏷️ I love people that can see my mistakes and correct me.  
-🏷️Looking forward to working in a company, where i can put my skills to practise 💻🎀     
-🏷️lastly, i love meeting new people and making friends 💬 so please reach out to me via my ..      
- ✉️ <b>Gmail</b>: prevailbugah@gmail.com       
- ✉️ <b>Outlook </b> : prevailugah@outlook.com       
-  📱 or via my social accounts below. Lets get to know each other 📱
+### 📍I am a student of **ALX** and **HOLBERTON SCHOOL**, studying **Software Engineering**.   
+🏷️ I enjoy being around smart and playful people😂      
+🏷️ I eat alot..🍝🍩🍰   and also drink alot of coffee ☕ that is justified,i'm a programmer😅             
+🏷️ I'm also an instrumentalist, a lover of good music 🎹🎸 🎧       
+🏷️ ** Fun fact**:  For some reason i don't like "**C**" that much😓          
+🏷️ I'm a **NIGERIAN** 🇳🇬        
+🏷️ I read alot📕📕 📌check out this book by [swyx](https://github.com/sw-yx) [The Coding Career Handbook](https://learninpublic.org/?from=GH%20README).Trust me,you'll thank me later😉                  
+🏷️ I love people that can see my mistakes and correct me.    
+🏷️Looking forward to working in a company, where i can put my skills to practise 💻🎀       
+🏷️lastly, i love meeting new people and making friends 💬 so please reach out to me via my ..        
+ ✉️ <b>Gmail</b>: prevailbugah@gmail.com         
+ ✉️ <b>Outlook </b> : prevailugah@outlook.com          
+  📱 or via my social accounts below. Lets get to know each other 📱   
 
 That is all about me for now😴💤
 </p>
