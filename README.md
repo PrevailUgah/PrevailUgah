@@ -30,7 +30,9 @@ ___
  ..then down you go⚓
 </summary>
 <p>
-
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
+ 
 ### I am a student of **ALX** and **HOLBERTON SCHOOL**, studying _Software Engineering_.
 I enjoy being around smart and playful people😂
 
@@ -66,7 +68,7 @@ ___
  <p>Hey! wanna hear a joke before you go😄</p>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
+
  
 
 
