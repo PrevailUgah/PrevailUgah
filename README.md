@@ -41,9 +41,9 @@ ___
 🏷️ I enjoy being around smart and playful people😂      
 🏷️ I eat alot..🍝🍩🍰   and also drink alot of coffee ☕ that is justified,i'm a programmer😅             
 🏷️ I'm also an instrumentalist, a lover of good music 🎹🎸 🎧       
-🏷️ ** Fun fact**:  For some reason i don't like "**C**" that much😓          
+🏷️ Fun fact 👉  For some reason i don't like "**C**" that much😓          
 🏷️ I'm a **NIGERIAN** 🇳🇬        
-🏷️ I read alot📕📕 📌check out this book by [swyx](https://github.com/sw-yx) [The Coding Career Handbook](https://learninpublic.org/?from=GH%20README).Trust me,you'll thank me later😉                  
+🏷️ I read alot📕📕 📌check out this book by [swyx](https://github.com/sw-yx), [The Coding Career Handbook](https://learninpublic.org/?from=GH%20README).Trust me,you'll thank me later😉                  
 🏷️ I love people that can see my mistakes and correct me.    
 🏷️Looking forward to working in a company, where i can put my skills to practise 💻🎀       
 🏷️lastly, i love meeting new people and making friends 💬 so please reach out to me via my ..        
