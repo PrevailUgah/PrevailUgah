@@ -20,6 +20,8 @@ I'm a promoter of no pain no gain. Doing Hard Things(DHT). I love spending time 
 * JavaScript
 * React js
 * C Programming
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prevailugah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ___
 ##  😀Wanna know more about me..?
