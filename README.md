@@ -68,8 +68,8 @@ ___
  <p>Hey! wanna hear a joke before you go😄</p>
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁; Please+if+you+have+any+tips+for+me..; on+how+to+improve+my+coding+skills..;Don't+hesitate+to+reach+out+to+me😉;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=ff652f">
+<p >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁;+ Please+if+you+have+any+tips+for+me..;+.. on+how+to+improve+my+coding+skills..;+..don't+hesitate+to+reach+out+to+me😉;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=ff652f">
 </p>
 
  
