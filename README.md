@@ -27,7 +27,7 @@ ___
 ##  😀Wanna know more about me..?
 <details>
 <summary>
- **[` 👇down you go👇 `](#PrevailUgah)** 
+ ## 👇down you go👇
 </summary>
 <p>
 
