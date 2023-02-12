@@ -31,7 +31,7 @@ ___
 </summary>
 <p>
 
-     **[`^        👇You just added to the number👇        ^`](#PrevailUgah)**
+ **[`^        👇You just added to the number👇        ^`](#PrevailUgah)**
   
  ![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
  
