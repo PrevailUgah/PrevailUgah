@@ -37,7 +37,7 @@ ___
  
  ___
  
-### 📍I am a student of **ALX** and **HOLBERTON SCHOOL**, studying **Software Engineering**.   
+ ### so..
 🏷️ I enjoy being around smart and playful people😂      
 🏷️ I eat alot..🍝🍩🍰   and also drink alot of coffee ☕ that is justified,i'm a programmer😅             
 🏷️ I'm also an instrumentalist, a lover of good music 🎹🎸 🎧       
