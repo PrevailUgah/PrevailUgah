@@ -27,11 +27,11 @@ ___
 ##  😀Wanna know more about me..?
 <details>
 <summary>
- ..then down you go⚓
+ **[` 👇down you go👇 `](#PrevailUgah)** 
 </summary>
 <p>
 
- **[` 👇You just added to the number👇 `](#PrevailUgah)**
+ **[` You just added to the number `](#PrevailUgah)**
   
  ![Visitor Count](https://profile-counter.glitch.me/{prevailugah}/count.svg)
  
@@ -74,7 +74,7 @@ ___
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁;+Don't+forget+to+star⭐⭐+my+repo's+and+follow👍+me+;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=840&height=50&duration=4100&pause=1000&color=ff652f">
 </p>
 
- **[`^        back to top        ^`](#PrevailUgah)**
+ 
 
 
 
