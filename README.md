@@ -50,6 +50,8 @@ ___
  ✉️ <b>Gmail</b>: prevailbugah@gmail.com         
  ✉️ <b>Outlook </b> : prevailugah@outlook.com          
   📱 or via my social accounts below. Lets get to know each other 📱   
+ 
+ **[` check this out `]( https://github.com/PrevailUgah?tab=followers)**
 
 That is all about me for now😴💤
 </p>
@@ -74,7 +76,9 @@ ___
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+reading+my+profile😁;+Don't+forget+to+star⭐⭐+my+repo's+and+follow👍+me+;Byeeeeeeeeee👋👋👋👋👋&font=Fira%20Code&center=true&width=840&height=50&duration=4100&pause=1000&color=ff652f">
 </p>
 
- **[` ^ Back to top ^ `](./README.md)**
+ **[` ^ Back to top ^ `](prevailugah)**
+ 
+ 
 
 
 
