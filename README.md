@@ -11,105 +11,110 @@ Building the Infrastructure of Trust for Digital Finance 🇳🇬
 
 I am a strong believer in Doing Hard Things (DHT)—the philosophy of "no pain, no gain" is my bedrock. My ambition is to solve high-impact, global problems, specifically by developing secure, scalable, and compliant financial technology. I love spending time around serious-minded people ready to change the world. P.S., I'd love to tour the world one day 🌍.
 
-🛡️ The Builder's Pledge: Integrity & Security First
-
-I use my skills to secure assets, verify identities, and facilitate legitimate trade. Fraud is a destructive path; my focus is on the Architect Path—delayed gratification for exponential, legal, and sustainable opportunities.
-
-My code is my bond. Every line I write is a commitment to the financial safety of millions.
-
-🚀 The Fintech Architect Focus Areas
+<details>
+<summary>🚀<h2> Focus Areas👇</h2></summary>
 
 I am actively building a full-stack, secure foundation across the six phases of the modern Fintech journey, preparing for global deployment and product leadership.
+<details>
+  <summary><h3>👇ROADMAP👇</h3></summary>
 
-Phase
 
-Core Skill Focus
-
-Why It Matters (Impact)
-
-Phase 1: Foundations
+<h3>Phase 1: Foundations</h3>
 
 Python, JavaScript (ES6+), Algorithmic Thinking
 
 The core logic for financial calculations and backend development.
 
-Phase 2: Web Dev
+<h3>Phase 2: Web Dev</h3>
 
 React.js, Node.js/Django, REST API Design
 
 Creating secure, responsive user interfaces for transaction dashboards.
 
-Phase 3: Security & Compliance
+<h3>Phase 3: Security & Compliance</h3>
 
 Hashing (bcrypt), OAuth 2.0, JWT, KYC/AML
 
 Critical: Preventing identity theft and ensuring regulatory adherence in Nigeria and globally.
 
-Phase 4: Data & AI
+<h3>Phase 4: Data & AI</h3>
 
 SQL (PostgreSQL), Pandas, Fraud Detection Models
 
 Building real-time anomaly detection systems to stop scams and card testing.
 
-Phase 5: Deployment
+<h3>Phase 5: Deployment</h3>
 
 Docker, AWS/GCP, CI/CD Pipelines
 
 Scaling applications securely and reliably to handle massive transaction volumes.
 
-Phase 6: Leadership
+<h3>Phase 6: Leadership</h3>
 
 Product Strategy, Agile Management, Open Source
 
 Leading development teams and launching the next generation of Nigerian Fintech products.
 
-🌱# I'm currently strengthening my skills on:
+<h2></h2>
+</details></details>
 
-Python (Backend Logic & Data)
 
-React JS (Secure Frontend)
+<details>
+<summary><h2>🌱Current Skill set update...👇</h2></summary>
 
-API Security (Phase 3 Focus)
+<b>Python (Backend Logic & Data)</b>
 
-~~C Programming~~ (Shifting focus to high-level, production-ready languages like Go/Rust for performance)
+<b>React JS (Secure Frontend)</b>
 
-🤓 Wanna know more about me?
+<b>API Security (Phase 3 Focus)</b>
+
+~~C Programming~~ <b>(Shifting focus to high-level, production-ready languages like Go/Rust for performance)</b>
+
+<h2></h2>
+</details>
+
+
 
 <details>
 <summary>
- <b> 👇down you go👇 </b>
+ <h2> 🤓My public secretes👇 </h2>
 </summary>
-<p>
  
- You just added to the number
- 
- 
- 
- ___
- 
- ### so..
-🏷️ I enjoy being around smart and playful people😂      
-🏷️ I eat a lot..🍝🍩🍰   and also drink a lot of coffee ☕—it's justified, I'm a programmer😅             
-🏷️ I'm also an instrumentalist, a lover of good music 🎹🎸 🎧       
-🏷️ Fun fact 👉  For some reason, I don't like "C" that much (I prefer Python's speed for problem-solving! 🏃‍♂️)          
+<h4>so..</h4>
+
+🏷️ I enjoy being around smart and playful people😂  
+
+🏷️ I eat a lot..🍝🍩🍰   and also drink a lot of coffee ☕—it's justified, I'm a programmer😅  
+
+🏷️ I'm also an instrumentalist, a lover of good music 🎹🎸 🎧  
+
+🏷️ Fun fact 👉  For some reason, I don't like "C" that much (I prefer Python's speed for problem-solving! 🏃‍♂️) 
+
 🏷️ I'm a NIGERIAN 🇳🇬        
-🏷️ I read a lot 📕📕 📌Check out this essential reading for builders: The Coding Career Handbook by swyx. Trust me, you'll thank me later 😉                  
+
+🏷️ I read a lot 📕📕 📌Check out this essential reading for builders: The Coding Career Handbook by swyx. Trust me, you'll thank me later 😉 
+
 🏷️ I value people who can see my mistakes and offer constructive correction.    
-🏷️ I'm looking forward to working in a company where I can put my skills into practice and build legitimate, high-value systems. 💻🎀       
+
+🏷️ I'm looking forward to working in a company where I can put my skills into practice and build legitimate, high-value systems. 💻🎀    
+
 🏷️ Lastly, I love meeting new people and making friends 💬 so please reach out!
- ✉️ Gmail: prevailbugah@gmail.com         
- ✉️ Outlook : prevailugah@outlook.com          
-  📱 or via my social accounts below. Let's get to know each other 📱   
+
+ ✉️ Gmail: prevailbugah@gmail.com    
+ 
+ ✉️ Outlook : prevailugah@outlook.com   
+ 
+ 📱 or via my social accounts below. Let's get to know each other 📱   
  
  
 
-That is all about me for now😴💤
+  That is all  for now😴💤
 
-</p>
 
 </details>
 
-Connect with the Architect 📲💻
+
+<b>Connect with the Architect📲💻</b>
 
 <p align="center">
 
