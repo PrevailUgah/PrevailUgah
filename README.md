@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-👋 I'm <b>Prevail😎</b>, a Naija Fintech Architect
+👋 I'm <b>Prevail😎</b>
 </h1>
 <h2 align="center">
-Building the Infrastructure of Trust for Digital Finance 🇳🇬
+A Nigerian Software Engineer, passionate about building scalable, user-centric web applications for the progress of humanity. Always learning. 🚀
 </h2>
 
-I am a strong believer in Doing Hard Things (DHT)—the philosophy of "no pain, no gain" is my bedrock. My ambition is to solve high-impact, global problems, specifically by developing secure, scalable, and compliant financial technology. I love spending time around serious-minded people ready to change the world. P.S., I'd love to tour the world one day 🌍.
+I am a strong believer in Doing Hard Things (DHT)—the philosophy of "no pain, no gain" is my bedrock. My ambition is to solve high-impact, global problems, specifically by developing secure, scalable, and compliant financial technology. I love spending time around funny serious-minded people ready to change the world. P.S., I'd love to tour the world one day 🌍.
 
 <details>
 <summary>🚀<h2> Focus Areas👇</h2></summary>
