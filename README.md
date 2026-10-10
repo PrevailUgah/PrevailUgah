@@ -1,9 +1,9 @@
 
-# 👋 Hi there
+# 🧑🏻‍💻
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=44&fontColor=ff7f50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF7F50&center=true&vCenter=true&width=520&lines=Software+Engineer;React+%2B+Next.js+%2B+Supabase;Building+Coursebin" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=If+it%27s+worth+doing%2C+do+it+well.;Software+Engineer" alt="If it's worth doing, do it well." />
 </p>
 
 ## 💻 About Me
