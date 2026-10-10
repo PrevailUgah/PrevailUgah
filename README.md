@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=If+it%27s+worth+doing%2C+do+it+well.;Software+Engineer" alt="If it's worth doing, do it well." />
 </p>
 
-## 💻 About Me
+## 💻 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=About+me" alt="About me." />
+</p>
 
 I'm a software engineer from Kaduna, Nigeria who enjoys building practical web applications with clean, maintainable code. I'm passionate about creating simple, useful interfaces and shipping real products.
 
