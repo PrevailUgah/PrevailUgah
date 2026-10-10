@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=300&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=70&fontColor=white&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=400&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=80&fontColor=FF7F50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
 
 ____________
 
