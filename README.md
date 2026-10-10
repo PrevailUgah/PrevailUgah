@@ -1,12 +1,12 @@
 
-# 🧑🏻‍💻
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=44&fontColor=ff7f50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=55&fontColor=ff7f50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=If+it%27s+worth+doing%2C+do+it+well.;Software+Engineer" alt="If it's worth doing, do it well." />
 </p>
 
-##  <p align="center">
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=About+me" alt="About me." />
 </p>
 
@@ -20,7 +20,8 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
 <br />
 
-## 🔧 Technologies
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Technologies🤖" alt="Technologies." />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -49,7 +50,9 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
 <br />
 
-## 🚀 Featured Project: [Coursebin](https://coursebin.vercel.app)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Featured Project🚀:" alt="projects" />
+</p>
+: [Coursebin](https://coursebin.vercel.app)
 
 A resource-sharing platform for university students to find and share past questions, lecture notes, and study guides, organized by course code.
 
@@ -60,8 +63,10 @@ A resource-sharing platform for university students to find and share past quest
 
 <br />
 
-## 📫 Let's Connect
+## 📫 
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Lets Connect:" alt="Lets Connect." />
+</p>
 <p align="left">
   <a href="https://portfolio-dev-clan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/prevail-b-ugah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
