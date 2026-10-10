@@ -1,6 +1,8 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=55&fontColor=ff7f50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=55&fontColor=blue&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
+
+____________
 
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=About+me" alt="About me." />
