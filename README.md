@@ -48,6 +48,7 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Featured+Project:" alt="projects" />
 </p>
+
 [Coursebin](https://coursebin.vercel.app)
 
 A resource-sharing platform for university students to find and share past questions, lecture notes, and study guides, organized by course code.
