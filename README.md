@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=600&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=70&fontColor=f0643a&stroke=f0643a&strokeWidth=1&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=500&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=60&fontColor=f0643a&stroke=f0643a&strokeWidth=1&fontAlignY=50&desc=Software%20Engineer&descSize=25&descAlignY=72" width="100%" />
 
 ____________
 
@@ -49,7 +49,7 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Featured+Project:" alt="projects" />
 </p>
-: [Coursebin](https://coursebin.vercel.app)
+[Coursebin](https://coursebin.vercel.app)
 
 A resource-sharing platform for university students to find and share past questions, lecture notes, and study guides, organized by course code.
 
