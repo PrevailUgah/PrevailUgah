@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=170&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=55&fontColor=ff7f50&fontAlignY=45&desc=Software%20Engineer&descSize=20&descAlignY=72" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=If+it%27s+worth+doing%2C+do+it+well.;Software+Engineer" alt="If it's worth doing, do it well." />
-</p>
-
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=About+me" alt="About me." />
 </p>
@@ -20,7 +16,7 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
 <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Technologies🤖" alt="Technologies." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Technologies" alt="Technologies." />
 </p>
 
 <p align="left">
@@ -50,7 +46,7 @@ I'm a software engineer from Kaduna, Nigeria who enjoys building practical web a
 
 <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Featured Project🚀:" alt="projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Featured Project:" alt="projects" />
 </p>
 : [Coursebin](https://coursebin.vercel.app)
 
