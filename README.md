@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=500&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=60&fontColor=f0643a&stroke=f0643a&strokeWidth=1&fontAlignY=50&desc=Software%20Engineer&descSize=25&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1c2433&height=500&section=header&text=%3E_%20Prevail%20B.%20Ugah&fontSize=60&fontColor=22c55e&stroke=22c55e&strokeWidth=1&fontAlignY=50&desc=Software%20Engineer&descSize=25&descAlignY=72" width="100%" />
 
 ____________
 
