@@ -1,50 +1,49 @@
-<h1 align="center">Prevail B. Ugah</h1>
-<p align="center">
-  Software Engineer from Kaduna, Nigeria
-</p>
+<h1 align="center">Prevail Ugah</h1>
+<p align="center"><b>Software Engineer</b> · React · Next.js · Node.js · TypeScript · Supabase</p>
+<p align="center">📍 Kaduna, Nigeria · 🌍 Open to remote roles</p>
 
 <p align="center">
-  <a href="https://coursebin.vercel.app">Coursebin</a> ·
-  <a href="https://portfolio-dev-clan.vercel.app">Portfolio</a> ·
-  <a href="mailto:prevailbugah@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/prevail-b-ugah">LinkedIn</a> ·
+  <a href="mailto:prevailbugah@gmail.com">Email</a> ·
   <a href="https://twitter.com/prevail_ugah">X</a>
 </p>
 
 ---
 
-### About
+## 👋 About
 
-I’m a software Engineer from Kaduna, Nigeria who enjoys building practical web applications. I focus on writing clean, maintainable code and creating interfaces that are simple and useful.
+I'm a software engineer who builds practical, user-friendly web applications with clean, maintainable code. I ship real products, and I'm looking for a team where I can contribute quickly and keep growing.
 
-Currently looking for **Junior Full-Stack** or **Frontend** opportunities (Remote or on-site).
-
----
-
-### Featured Project
-
-**[Coursebin](https://coursebin.vercel.app)**  
-A resource-sharing platform for university students. Users can browse and upload past questions, lecture notes, and study guides organized by course code. Built with secure file handling using signed download URLs.
-
-- **Live:** [coursebin.vercel.app](https://coursebin.vercel.app)  
-- **Code:** [github.com/PrevailUgah/coursebin](https://github.com/PrevailUgah/coursebin)
+**Open to:** Junior Software Engineer · Frontend Engineer · Full-Stack Engineer
 
 ---
 
-### Skills
+## 🚀 Featured Project: [Coursebin](https://coursebin.vercel.app)
 
-`JavaScript` `TypeScript` `React` `Node.js` `Next.js` `WordPress` `Tailwind CSS` `Git`
+A resource-sharing platform for university students to find and share past questions and lecture notes, organized by course code.
+
+- **Problem:** Study materials are scattered across WhatsApp and Drive, hard to find before exams.
+- **Solution:** Centralized, searchable library with course-code filtering and secure downloads.
+- **Features:** Auth, search & filtering, file upload, signed secure download URLs, Supabase RLS
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
+
+[Live demo](https://coursebin.vercel.app) · [Source code](https://github.com/PrevailUgah/coursebin)
 
 ---
 
-### Currently
+## 🛠 Tech Stack
 
-- Building and improving Coursebin  
-- Open to Junior Full-Stack and Frontend roles
+| Area | Tools |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend & Data** | Node.js, Supabase, PostgreSQL |
+| **CMS** | WordPress (custom themes, headless CMS) |
+| **Tools** | Git, GitHub, Vercel, Docker | 
 
 ---
 
-**Get in touch**  
-Email: [prevailbugah@gmail.com](mailto:prevailbugah@gmail.com)  
-LinkedIn: [linkedin.com/in/prevail-b-ugah](https://www.linkedin.com/in/prevail-b-ugah)  
-X: [@prevail_ugah](https://twitter.com/prevail_ugah)
+## 📫 Let's Connect
+
+Open to software engineering opportunities — frontend, full-stack, or backend.
+
+**Email:** prevailbugah@gmail.com
