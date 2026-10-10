@@ -59,9 +59,9 @@ A resource-sharing platform for university students to find and share past quest
 
 <br />
 
-## 📫 
+## 📫
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Lets Connect:" alt="Lets Connect." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1500&color=FF7F50&center=true&vCenter=true&width=520&lines=Lets+Connect:" alt="Lets Connect." />
 </p>
 <p align="left">
   <a href="https://portfolio-dev-clan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
