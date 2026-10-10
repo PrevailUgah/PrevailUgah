@@ -1,5 +1,5 @@
 <h1 align="center">Prevail Ugah</h1>
-<p align="center"><b>Software Engineer</b> · React · Next.js · Node.js · TypeScript · Supabase</p>
+<p align="center"><b>Software Engineer</b></p>
 <p align="center">📍 Kaduna, Nigeria · 🌍 Open to remote roles</p>
 
 <p align="center">
